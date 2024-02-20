@@ -4,4 +4,4 @@
 
 - 🌱 I’m currently learning C#, SQL
   
-- 🌿 I've worked with Java, Python, C, Html.
+- 🌿 I've worked with Js, C, Html.
