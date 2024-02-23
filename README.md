@@ -7,5 +7,5 @@
 - 🌿 I've worked with Js, C, Html.
 
 <div>
-![Snake animation](https://github.com/CarlosEdu141/CarlosEdu141/blob/output/github-contribution-grid-snake-dark.svg)
+![snake animation](https://github.com/CarlosEdu141/CarlosEdu141/blob/output/github-contribution-grid-snake2.svg)
 </div>
