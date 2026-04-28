@@ -6,6 +6,6 @@
 
 💼 I work as a Development Lead.
 
-🗄️ I have experience with SQL, PL/SQL, Oracle APEX, JavaScript, C, and Python.
+🗄️ I have experience with SQL, PL/SQL, Oracle APEX, JavaScript, C, Python, Nodejs and React.
 
 ![snake animation](https://github.com/CarlosEdu141/CarlosEdu141/blob/output/github-contribution-grid-snake-dark.svg)
