@@ -66,11 +66,6 @@
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-CarlosEdu141-181717?style=for-the-badge&logo=github)](https://github.com/CarlosEdu141)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Carlos%20Eduardo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-7705542b1/)
 
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CarlosEdu141&color=58A6FF&style=flat-square&label=Visitas+ao+perfil" alt="profile views"/>
 </div>
