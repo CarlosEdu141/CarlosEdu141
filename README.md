@@ -13,7 +13,6 @@
 💼 Atuo como **Dev Lead** — liderando times e entregando soluções  
 🌱 Estudando **React** e **Java** para me tornar Full Stack  
 🗄️ Experiência sólida com bancos de dados e desenvolvimento web  
-📖 Gosto de RPG de mesa nas horas vagas 🧛 *(sim, o Vampiro: A Máscara conta)*
 
 ---
 
