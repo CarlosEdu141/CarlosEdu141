@@ -18,7 +18,6 @@
 
 ### 🛠️ Tecnologias & Ferramentas
 
-<!-- Badges de linguagens e ferramentas -->
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -38,9 +37,9 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEdu141&show_icons=true&theme=github_dark&count_private=true&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEdu141&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1800"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEdu141&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&langs_count=7"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEdu141&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&langs_count=7&cache_seconds=1800"/>
 
 </div>
 
