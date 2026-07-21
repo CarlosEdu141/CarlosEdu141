@@ -37,9 +37,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=CarlosEdu141&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&icon_color=58A6FF&cache_seconds=1800"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosEdu141&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58A6FF&langs_count=7&cache_seconds=1800"/>
+![CarlosEdu141's GitHub stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CarlosEdu141&theme=github_dark)
+![Top Languages by Commit](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CarlosEdu141&theme=github_dark)
 
 </div>
 
