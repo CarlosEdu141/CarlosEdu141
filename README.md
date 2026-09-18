@@ -9,10 +9,10 @@
 
 ### 🧑‍💻 Sobre mim
 
-🎓 Cursando **Engenharia de Software**  
-💼 Atuo como **Dev Lead** — liderando times e entregando soluções  
-🌱 Estudando **React** e **Java** para me tornar Full Stack  
-🗄️ Experiência sólida com bancos de dados e desenvolvimento web  
+💼 **Dev Lead** na FAPEG — Líder de Área e Projeto na Gerência de TI, à frente da plataforma CHARLES  
+🚀 Fundador da **Fenrys Tech**, software house em Goiânia  
+🛠️ Experiência **Full Stack** — back-end, front-end e estruturação de bancos de dados  
+🌱 Estudando **desenvolvimento de IA** e aplicação de **LLMs**
 
 ---
 
